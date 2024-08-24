@@ -1,4 +1,4 @@
-## Hi, I'm Kim EunHoo 👋
+## Hello!, I'm Kim EunHoo 👋
 
 ### 📚 Stack
 
